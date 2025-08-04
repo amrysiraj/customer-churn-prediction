@@ -10,7 +10,7 @@ This project predicts whether a credit card customer is likely to churn (leave) 
 
 ## App Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## How to run the Streamlit app locally
 
