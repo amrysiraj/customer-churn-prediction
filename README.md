@@ -8,6 +8,10 @@ This project predicts whether a credit card customer is likely to churn (leave) 
 - Saving the best model and scaler for future use
 - A Streamlit web app for interactive churn prediction
 
+## App Screenshot
+
+![App Screenshot](screenshot.png)
+
 ## How to run the Streamlit app locally
 
 1. Clone this repository  
